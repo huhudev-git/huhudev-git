@@ -4,8 +4,8 @@
 
 Hi, I'm huhu, a Full Stack Developer 🚀 from China. Now living in Japan Tokyo.
 
-- 🔭 I’m currently working on **Golang, Vue, Collage**
-- 🌱 I’m currently learning **Microservice**
+- 🔭 I’m currently working on **Leetcode**
+- 🌱 I’m currently learning **algorithm**
 - 📫 How to reach me: **contact@huhu.dev**
 - 💬 Ask me about anything, I am happy to help
 
