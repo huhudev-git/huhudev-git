@@ -4,8 +4,8 @@
 
 Hi, I'm huhu, a Full Stack Developer 🚀 from China. Now living in Japan Tokyo.
 
-- 🔭 I’m currently working on **CCNA**
-- 🌱 I’m currently learning **algorithm**
+- 🔭 I’m currently working on **Interview**
+- 🌱 I’m currently learning **CCNA**
 - 📫 How to reach me: **contact@huhu.dev**
 - 💬 Ask me about anything, I am happy to help
 
