@@ -4,8 +4,8 @@
 
 Hi, I'm huhu, a Full Stack Developer 🚀 from China. Now living in Japan Tokyo.
 
-- 🔭 I’m currently working on **Microservices**
-- 🌱 I’m currently learning **GitOps**
+- 🔭 I’m currently working on **Kubernetes**
+- 🌱 I’m currently learning **Boki**
 - 📫 How to reach me: **contact@huhu.dev**
 - 💬 Ask me about anything, I am happy to help
 
